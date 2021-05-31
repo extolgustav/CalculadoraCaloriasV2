@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "big mac",
+    "ingredients":
+    [
+
+      {
+        "name": "dois hambúrgueres",
+        "calories": 167
+      },
+      {
+        "name": "alface",
+        "calories": 22
+      },
+      {
+        "name": "queijo",
+        "calories": 144
+      },
+      {
+        "name": "molho especial",
+        "calories": 72
+      },
+      {
+        "name": "cebola",
+        "calories": 23
+      },
+      {
+        "name": "pão com gergelim",
+        "calories": 75
+      }
+    ],
+    "totalCalories": 503
+  },
+  {
+    "id": 2,
+    "name": "cheddar mcmelt",
+    "ingredients":
+    [
+      {
+        "name": "pão escuro com gergelim",
+        "calories": 67
+      },
+      {
+        "name": "cebola grelhada ao molho shoyu",
+        "calories": 119
+      },
+      {
+        "name": "carne bovina",
+        "calories": 138
+      },
+      {
+        "name": "queijo tipo cheddar",
+        "calories": 144
+      }
+    ],
+    "totalCalories": 468
+  }
+]
